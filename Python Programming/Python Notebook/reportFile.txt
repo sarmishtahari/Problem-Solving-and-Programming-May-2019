@@ -1,0 +1,7 @@
+Highest is:101
+lowest is:0
+Distinction:294
+First:222
+second:131
+third:115
+fail:538
