@@ -1,0 +1,165 @@
+  2  ls
+  
+  3  cd Desktop
+  
+  4  ls
+    
+  5  ls
+   
+  6  ls Program Solving and Programming
+    
+ 7  cd Program Solving and Programming
+   
+ 8  cd Program Solving and Programming
+    
+9  cd ProgramSolvingandProgramming
+   
+10  cd Desktop
+   
+11  cd ..
+   
+12  cd Desktop
+   
+13  cd Problem\ Solving\ and\ Programming/
+   
+14  ls
+   
+15  pwd
+   
+16  cd Git
+   
+17  ls
+   
+18  pwd
+   
+19  ls
+   
+20  clr
+   
+21  clrscr
+   
+22  ls
+   
+23  pwd
+   
+24  ls
+   
+25  git --version
+   
+26  git help
+   
+27  git config --list
+   
+28  q
+   
+29  git config --global user.name "arshad"
+  
+ 30  git config user.name
+   
+31  git config --global user.email arshadalibaig998@gmail.com
+  
+ 32  git config user.email
+   
+33  git init
+   
+34  ls
+  
+35  ls -a
+   
+36  ls .git
+   
+37  pwd
+   
+38  ls -a
+   
+39  cd .git
+   
+40  ls -a
+   
+41  cat config
+   
+42  pwd
+   
+43  cd ..
+   
+44  ls
+   
+45  git add data.txt 
+   
+46  git status
+   
+47  git rm --cached data.txt 
+   
+48  git status
+   
+49  git add data.txt 
+   
+50  git status
+   
+51  git commit -m "Initial Commit"
+   
+52  ls
+   
+53  touch data2.txt
+   
+54  git status
+   
+55  git add data2.txt
+   
+56  git status
+   
+57  git commit -m "Second snapshot"
+   
+58  git status
+   
+59  ls
+   
+60  git log
+  
+ 61  cat data2.txt 
+   
+62  echo "first line data" > data2.txt
+  
+ 63  cat data2.txt
+   
+64  git status
+   
+65  git add data2.txt
+   
+66  git status
+  
+ 67  echo "second line message" >> data2.txt 
+   
+68  ls
+   
+69  git status
+   
+70  pwd
+  
+ 71  history 10
+   
+72  pwd
+   
+73  cd ..
+   
+74  pwd
+   
+75  mkdir test
+   
+76  cd test
+   
+77  pwd
+   
+78  git init
+   
+79  git remote add test https://github.com/Arshad-Baig/test
+  
+ 80  git pull test master
+   
+81  git pull test master
+   
+82  git clone https://github.com/Arshad-Baig/test
+   
+83  history 
+   
+84  history 83 > gitcommands.txt
